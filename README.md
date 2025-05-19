@@ -1,6 +1,5 @@
 # proyectoBDD
 
 **Integrantes:**
-- Yair Vilca
-- Victor Jara
+- Joaquin Limaco
 - Nicolas Riquelme
